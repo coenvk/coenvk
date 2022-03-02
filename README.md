@@ -24,13 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="margin-bottom:12pt;">
-<img align="left" alt="GIF" src="https://github.com/coenvk/coenvk/blob/main/code.gif?raw=true" width="500" height="320" />
-<a style="width:100%;" href="https://github.com/coenvk/kotboy">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=coenvk&repo=kotboy" />
-</a>
-</div>
-
+<img align="right" alt="GIF" src="https://github.com/coenvk/coenvk/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### Skills
 
@@ -54,5 +48,17 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=coenvk&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coenvk&hide=TeX&layout=compact)
+* <p>I have 3 years of working experience.</p>
+
+#### Most notable repository
+<a href="https://github.com/coenvk/kotboy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coenvk&repo=kotboy" />
+</a>
+
+<p align="left">
+
+#### Github stats
+  
+<img src="https://github-readme-stats.vercel.app/api?username=coenvk&count_private=true&show_icons=true&include_all_commits=true" />
+  
+</p>
