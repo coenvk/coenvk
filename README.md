@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-26223A?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-0b214a?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-303030?style=flat-square&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
