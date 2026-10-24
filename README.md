@@ -48,9 +48,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
   <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" alt="GitLab" />
-
-  <p align="center">&bull; I have 3 years of working experience.</p>
-
 </p>
 
 <br>
