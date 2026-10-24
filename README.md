@@ -2,7 +2,7 @@
 
 Hello everyone, I'm [Coen van Kampen](https://coenvk.github.io/) a software engineer from the Netherlands. I have done my bachelor's degree in Technical Computer Science at the [University of Twente](https://www.utwente.nl/) and am currently finishing my masters in Computer Science. I am enthusiastic about databases, distributed systems, backend development and much more!
 
-[![Website Badge](https://img.shields.io/badge/-@coenvk-blue?style=flat-square&color=18d26e&link=https://coenvk.github.io/)](https://coenvk.github.io/)
+[![Website Badge](https://img.shields.io/badge/-@coenvk-blue?style=flat-square&color=18d26e&link=https://coenvk.github.io/)](https://coenvk.dev/)
 [![Github Badge](https://img.shields.io/badge/-coenvk-blue?style=flat-square&color=black&logo=Github&logoColor=white&link=https://github.com/coenvk/coenvk/)](https://github.com/coenvk/coenvk/)
 [![Linkedin Badge](https://img.shields.io/badge/-coenvankampen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coen-van-kampen-5199261a5/)](https://www.linkedin.com/in/coen-van-kampen-5199261a5/)
 
